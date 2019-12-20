@@ -1,0 +1,16 @@
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\bin\Debug\CRMProject.exe.config
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\bin\Debug\CRMProject.exe
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\bin\Debug\CRMProject.pdb
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\obj\Debug\CRMProject.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\obj\Debug\CRMProject.exe
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\obj\Debug\CRMProject.pdb
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\CRMProject\obj\Debug\CRMProject.csprojAssemblyReference.cache

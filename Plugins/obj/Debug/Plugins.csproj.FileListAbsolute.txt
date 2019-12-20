@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\Plugins\bin\Debug\Plugins.dll
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\Plugins\bin\Debug\Plugins.pdb
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\Plugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\Plugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\Plugins\obj\Debug\Plugins.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\Plugins\obj\Debug\Plugins.dll
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\Plugins\obj\Debug\Plugins.pdb
+C:\Users\Пользователь\Desktop\Projects VS\CRMProject\Plugins\obj\Debug\Plugins.csprojAssemblyReference.cache
